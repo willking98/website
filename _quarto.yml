@@ -20,7 +20,7 @@ website:
 
 format:
   html:
-    theme: united
+    theme: morph
     toc: true
 
 editor: source
